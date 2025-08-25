@@ -1,0 +1,13 @@
+{
+  "name": "Captain",
+  "voice_enabled": true,
+  "auto_weather": true,
+  "news_sources": [
+    "bbc",
+    "cnn"
+  ],
+  "work_hours": {
+    "start": "09:00",
+    "end": "17:00"
+  }
+}
